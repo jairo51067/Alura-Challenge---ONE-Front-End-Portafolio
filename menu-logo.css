@@ -1,0 +1,12 @@
+.menu__logo{
+    height: 65px;
+    width: 65px;
+    margin: 0 auto;
+    background-position: center;
+    background: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+
+    padding: 3px;
+    box-shadow: 5px 10px 20px #8c8c8c;
+}

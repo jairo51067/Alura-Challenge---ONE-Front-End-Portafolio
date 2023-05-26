@@ -1,0 +1,10 @@
+.title__div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4rem;
+  gap: 19rem;
+  margin: 1rem;
+  margin-right: 12rem;
+  margin-left: 9rem;
+}

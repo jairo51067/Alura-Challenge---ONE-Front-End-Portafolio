@@ -1,0 +1,11 @@
+.about__paragraph {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: normal;
+
+  /* Preto/100% */
+
+  color: #464646;
+}

@@ -1,0 +1,11 @@
+.title__profile {
+  margin: 0 auto;
+  background-position: center;
+  background: no-repeat;
+  background-size: cover;
+  border-radius: 100%;
+
+  
+  padding: 10px;
+  box-shadow: 5px 10px 10px #8c8c8c;
+}

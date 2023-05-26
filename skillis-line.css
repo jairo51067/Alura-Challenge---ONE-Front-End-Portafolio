@@ -1,0 +1,10 @@
+.skills__line {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 3rem;
+  padding-right: 14rem;
+  gap: 4rem;
+}

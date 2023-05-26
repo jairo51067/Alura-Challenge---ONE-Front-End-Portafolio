@@ -1,0 +1,10 @@
+.experience__box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  
+  gap: 50px;
+  margin-right: 5rem;
+ 
+}

@@ -1,0 +1,10 @@
+.experience__demo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 17px;
+  gap: 10px;
+
+  background: #2a7ae4;
+}

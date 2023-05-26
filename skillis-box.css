@@ -1,0 +1,11 @@
+.skills__box{
+    background: #ffffff;
+    width: 14rem;
+    height: 14rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 0rem;
+
+
+}

@@ -1,0 +1,6 @@
+.hobbies{
+    flex-wrap: wrap;
+    /*define si las cajas estan en una sola linea o en dos*/
+    padding: 5rem 0 0 5rem;
+    /*Derecha - Izquierda - Arriba - Abajo */ 
+}

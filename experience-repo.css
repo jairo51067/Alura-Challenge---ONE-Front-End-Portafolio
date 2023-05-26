@@ -1,0 +1,19 @@
+.experience__repo {
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  gap: 10px;
+
+  
+
+  /* Azul/100% */
+
+  border: 1px solid #2a7ae4;
+  
+}
