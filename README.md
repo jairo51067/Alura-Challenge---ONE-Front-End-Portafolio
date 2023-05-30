@@ -7,3 +7,4 @@
 
 ![Desafio 2 Portafolio](https://github.com/jairo51067/Alura-Challenge---ONE-Front-End-Portafolio/assets/109292981/9ebadf1c-75f2-4bd2-a05f-33e048cb2eb2)
 
+Gracias, por visitar mi desafio 2 portafolio. Puedes visualizarlo, en https://jairo51067.github.io/Alura-Challenge---ONE-Front-End-Portafolio/
